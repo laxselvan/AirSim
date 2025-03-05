@@ -14,4 +14,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/DroneDemo.unity
     guid: 012f6bdfaada17042bf7917f7d4fcbd8
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 330d9709ed9a2e041b0d29858a84d8d2,
+      type: 2}
